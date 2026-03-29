@@ -1,0 +1,16 @@
+,Momentum,SPY
+Annualised Return (%),2.15,6.43
+Annualised Volatility (%),13.38,8.75
+Sharpe Ratio,0.077,0.53
+Sortino Ratio,0.078,0.55
+Calmar Ratio,0.077,0.515
+Max Drawdown (%),-27.71,-12.49
+"VaR 95% (daily, %)",1.325,0.827
+"CVaR 95% (daily, %)",1.783,1.168
+Win Rate (%),51.16,52.73
+Avg Win / Avg Loss,0.991,1.025
+Skewness,0.228,0.543
+Excess Kurtosis,3.926,7.465
+Beta,1.184,—
+"Alpha (ann., %)",-5.1,—
+Information Ratio,-0.418,—
